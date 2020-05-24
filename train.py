@@ -4,7 +4,7 @@ from datetime import datetime
 from libs.compute import *
 from libs.constant import *
 from libs.model import *
-from options import TrainOpt
+from options import train_opt as TrainOpt
 
 
 
